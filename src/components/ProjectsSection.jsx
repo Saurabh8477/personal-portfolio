@@ -15,10 +15,10 @@ const projects = [
     title: "Orbit Analytics Dashboard",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
+    image: "/projects/furniture.png",
     tags: ["javaScript", "D3.js", "Next.js"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Saurabh8477",
   },
   {
     id: 3,
