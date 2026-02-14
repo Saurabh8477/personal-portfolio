@@ -12,13 +12,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "online Furniture Store",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "An e-commerce website for furniture, built with JavaScript, React.js, and Next.js.",
     image: "/projects/furniture.png",
-    tags: ["javaScript", "D3.js", "Next.js"],
+    tags: ["javaScript", "react.js", "Next.js"],
     demoUrl: "#",
-    githubUrl: "https://github.com/Saurabh8477",
+    githubUrl: "https://github.com/Saurabh8477/my-furniture",
   },
   {
     id: 3,
